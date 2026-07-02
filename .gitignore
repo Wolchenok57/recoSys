@@ -1,0 +1,62 @@
+# Большие файлы и папки
+BPE/
+temp/
+logs*/
+pretrained_sbert_models/
+llama.cpp/build/
+llama.cpp/models/
+*.gguf
+*.pth
+*.bin
+*.npy
+*.pkl
+*.model
+*.ckpt
+*.pb
+*.safetensors
+
+# Кэш и временные файлы
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.log
+*.tmp
+
+# Виртуальное окружение
+venv/
+env/
+.venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Настройки IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Jupyter Notebooks
+.ipynb_checkpoints/
+*.ipynb
+
+# Файлы данных
+*.csv
+*.parquet
+*.arrow
+*.h5
+*.joblib
+*.pickle
+
+# Сборка и бинарники
+build/
+dist/
+*.so
+*.dylib
+*.dll
+
+# Системные файлы
+.DS_Store
+Thumbs.db

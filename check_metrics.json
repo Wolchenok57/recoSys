@@ -1,0 +1,9 @@
+{
+  "sample_books": 1000,
+  "total_npy_bytes_sample": 24211968,
+  "total_tokens_sample": 11799484,
+  "avg_npy_bytes_per_chapter": 7899.5001631321375,
+  "avg_tokens_per_chapter": 3849.7500815660687,
+  "projected_full_gb": 31.56881332397461,
+  "recommended_shard_size": 10000
+}
